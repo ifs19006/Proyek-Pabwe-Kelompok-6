@@ -1,6 +1,6 @@
 # Proyek-Pabwe-Kelompok-6
 Merupakan Repository untuk pembuatan website Himpunan Prodi Informatika Institut Teknologi Del
-Hardware: Laptop
+Spesifikasi Hardware: Laptop windows 10
 
 
 Nama-Nama Kelompok :
@@ -9,4 +9,3 @@ Nama-Nama Kelompok :
 3.Bintang Lumban Raja (11S19033)
 4.Agnes Bertua Nababan (11S19061)
 
-test

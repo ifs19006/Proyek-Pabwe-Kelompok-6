@@ -4,8 +4,8 @@ Hardware: Laptop
 
 
 Nama-Nama Kelompok :
-1.
-2.Kristina Tampubolon (11S19010)
+1. Daniel Fernandez Lumbanraja (11S19006)
+2. Kristina Tampubolon (11S19010)
 3
 4
 

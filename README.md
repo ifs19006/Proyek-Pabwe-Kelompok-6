@@ -11,6 +11,8 @@ Spesifikasi Hardware: Laptop windows 10
 Spesifikasi Software : - Visual studio code
                        - Boostrap
                        - CSS
+					   
+Fitur-Fitur Website: Home, News, Visi Misi, Event, Dosen, Album, Kurikulum, Capaian Belajar
 
 
 

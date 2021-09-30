@@ -10,6 +10,7 @@ Merupakan Repository untuk pembuatan website Himpunan Prodi Informatika Institut
 Spesifikasi Hardware: Laptop windows 10
 Spesifikasi Software : - Visual studio code
                        - Boostrap
+                       - CSS
 
 
 

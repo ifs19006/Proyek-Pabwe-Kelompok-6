@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
         .banner {
             background-image: url("Gambar.jpeg");
             background-position: no-repeat center center;
@@ -50,3 +51,82 @@
             font-weight: lighter;
         }
         /* Akhir FOOTER */
+=======
+.banner {
+  background-image: url("Gambar.jpeg");
+  background-position: no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: rgb(6, 86, 139);
+}
+
+#News {
+  background-color: #e2edff;
+}
+
+.hovered-card {
+  transition: 0.3s;
+}
+.hovered-card:hover {
+  transform: scale(1, 1.2);
+}
+
+section {
+  padding-top: 5rem;
+}
+/*FOOTER*/
+
+.footer {
+  background-color: #03045e;
+  color: rgb(255, 255, 255);
+}
+
+.footer .container {
+  flex-wrap: wrap;
+}
+
+.footer p {
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.icon-sosial-media .bx {
+  font-size: 60px;
+  transition: all 0.4s;
+  color: rgb(150, 150, 150);
+}
+
+.icon-sosial-media .bx:hover {
+  font-size: 61px;
+  color: rgb(6, 86, 139);
+  float: right;
+}
+
+.footer-copyright {
+  background-color: #03045e;
+  font-weight: lighter;
+}
+
+.social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #023e8a;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+.social-links a:hover {
+  background: #03045e;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Akhir FOOTER */
+>>>>>>> Stashed changes

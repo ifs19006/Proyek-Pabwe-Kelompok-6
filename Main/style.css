@@ -52,6 +52,10 @@
                     color: rgb(4, 29, 46);
                 }
                 
+                li {
+                    list-style: none;
+                }
+                
                 .footer-copyright {
                     background-color: #336b87;
                     font-weight: lighter;

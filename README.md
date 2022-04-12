@@ -8,15 +8,18 @@ Nama-Nama Kelompok :
 
 Merupakan Repository untuk pembuatan website Himpunan Prodi Informatika Institut Teknologi Del
 Spesifikasi Hardware: Laptop windows 10
-Spesifikasi Software : - Visual studio code - Boostrap - CSS
+Spesifikasi Software : 
+- Visual studio code 
+- Boostrap 
+- CSS
   
 Fitur-Fitur Website:
-Logo danHome
-News
-Visi Misi
-Event
-Dosen
-Album
-Kurikulum
-Capaian Belajar
-Footer: Maps, sosial Media
+- Logo dan Home
+- News
+- Visi Misi
+- Event
+- Dosen
+- Album
+- Kurikulum
+- Capaian Belajar
+- Footer: Maps, sosial Media
